@@ -14,7 +14,7 @@ So, this script will help you to change all users' time zone in OneDrive for Bus
    - Download the nupkg.
    - Change the file extension to *.zip.
    - Unzip and extract those file.
-   - place "lib" folder under `C:\csom`
+   - Place "lib" folder under `C:\csom`
 
 ## Usage
 `.\Change-OD4B-TimeZone -SPOAdminUrl https://contoso-admin.sharepoint.com -SPOAdminUser spoadmin@contoso.onmicrosoft.com [-TimeZoneId 20]`
